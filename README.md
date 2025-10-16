@@ -1,5 +1,5 @@
 # SatelliteTracker
-This is a simple satellite position tracker, its database contains all active satellites in space, including the ISS. I made it just for fun.
+This is a simple, terminal based, satellite position tracker, its database contains all active satellites in space, including the ISS. I made it just for fun.
 
 It works by utilizing the satellites orbit to "guess" mathematicaly where it is, based on the UTC time and orbit prediction. It shows you the corresponding latitude and logitude on Earth's surface.
 
